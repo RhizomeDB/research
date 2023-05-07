@@ -2,6 +2,7 @@ AKE
 Antijoin
 Arity
 BFT
+Berkley
 Bilinear
 Bitswap
 Bluesky
@@ -15,6 +16,7 @@ CIDs
 CIDv
 CRDT
 CRDTs
+Cambria
 Cartesian
 DAGs
 DBSP
@@ -31,6 +33,7 @@ EVAC
 Encryptions
 Equijoin
 FPP
+FQI
 Filecoin
 Golang
 HLS
@@ -62,11 +65,13 @@ PomoRA's
 Prolog
 Qri's
 RESTful
+RQA
 Ramen
 Requestor's
 Roadmap
 Runtime
 SCCs
+Schemas
 Semijoin
 TLS
 TODO
