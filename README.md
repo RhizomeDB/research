@@ -1,11 +1,19 @@
 # Rhizome Research
 
-This document contains a short list of relevant research to [Rhizome](https://github.com/RhizomeDB). It is in no way exhaustive.
+A short list of relevant research to [Rhizome](https://github.com/RhizomeDB). It is in no way exhaustive.
 
-## Query Processing
+## Query Compilation & Processing
 
+- [Compiling Data-Parallel Datalog](https://thomas.gilray.org/pdf/compiling-datalog.pdf)
 - [Datalog and Recursive Query Processing](http://blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf)
 - [Queries are easier than you thought (probably)](https://dl.acm.org/doi/pdf/10.1145/137097.137105)
+- [Recursive Strategies for Answering Recursive Queries — The RQA/FQI Strategy](https://www.vldb.org/conf/1987/P043.PDF)
+
+### Top-Down vs Bottom-Up
+
+A debate that has raged for literal decades:
+
+- [Bottom-Up Beats Top-Down for Datalog](https://dl.acm.org/doi/pdf/10.1145/73721.73736)
 
 ### Differential
 
@@ -14,7 +22,7 @@ This document contains a short list of relevant research to [Rhizome](https://gi
 
 ## Languages
 
-- [Bloom](http://bloom-lang.net/research/)
+- [Bloom](http://bloom-lang.net/)
 - [Boomerang: A bidirectional programming language for ad-hoc, textual data](https://www.seas.upenn.edu/~harmony/)
 
 ## Schemas & Interoperation
