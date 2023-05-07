@@ -44,6 +44,7 @@ IDB
 IPFS
 IPLD
 IPNS
+Interoperation
 Invertible
 IoT
 Krüger
