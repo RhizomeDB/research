@@ -4,6 +4,8 @@ A short list of relevant research to [Rhizome](https://github.com/RhizomeDB). It
 
 ## Query Compilation & Processing
 
+- [Automatic Index Selection for Large-Scale Datalog
+Computation](https://vldb.org/pvldb/vol12/p141-subotic.pdf)
 - [Compiling Data-Parallel Datalog](https://thomas.gilray.org/pdf/compiling-datalog.pdf)
 - [Datalog and Recursive Query Processing](http://blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf)
 - [Queries are easier than you thought (probably)](https://dl.acm.org/doi/pdf/10.1145/137097.137105)
