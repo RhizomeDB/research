@@ -21,6 +21,7 @@ A debate that has raged for literal decades:
 
 - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://arxiv.org/abs/2203.16684)
 - [Differential Dataflow](https://www.cidrdb.org/cidr2013/Papers/CIDR13_Paper111.pdf)
+- [DBSP Notes](https://github.com/RhizomeDB/dbsp-notes)
 
 ## Languages
 
