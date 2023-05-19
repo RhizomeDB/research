@@ -39,6 +39,7 @@ Golang
 HLS
 HTTPS
 Herbrand
+Hexastore
 Holmgren
 IDB
 IPFS
@@ -74,6 +75,7 @@ Runtime
 SCCs
 Schemas
 Semijoin
+Sextuple
 TLS
 TODO
 TTL
