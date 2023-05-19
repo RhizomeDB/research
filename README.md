@@ -44,3 +44,5 @@ A debate that has raged for literal decades:
 ## Data Structures
 
 - [A Specialized B-tree for Concurrent Datalog Evaluation](https://souffle-lang.github.io/pdf/ppopp19.pdf)
+- [Hexastore:
+Sextuple Indexing for Semantic Web Data Management](https://people.csail.mit.edu/tdanford/6830papers/weiss-hexastore.pdf)
