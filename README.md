@@ -46,3 +46,14 @@ A debate that has raged for literal decades:
 - [A Specialized B-tree for Concurrent Datalog Evaluation](https://souffle-lang.github.io/pdf/ppopp19.pdf)
 - [Hexastore:
 Sextuple Indexing for Semantic Web Data Management](https://people.csail.mit.edu/tdanford/6830papers/weiss-hexastore.pdf)
+
+## Encryption
+
+### Searchable
+
+- [Dynamic Local Searchable Symmetric Encryption](https://arxiv.org/pdf/2201.05006.pdf)
+- [ESVSSE: Enabling Efficient, Secure, Verifiable Searchable Symmetric Encryption](https://ieeexplore.ieee.org/ielx7/69/4358933/09201320.pdf)
+- [Efficient Dynamic Searchable Encryption with Forward Privacy under the Decent Leakage](https://dl.acm.org/doi/pdf/10.1145/3508398.3511521)
+- [Eurus: Towards an Efficient Searchable Symmetric Encryption with Size Pattern Protection](https://eprints.ncl.ac.uk/file_store/production/272263/92794BEF-9F2B-4932-865D-A5C7C6185B27.pdf)
+- [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://web.njit.edu/~crix/publications/jcs11.pdf)
+- [Verifiable Dynamic Symmetric Searchable Encryption Optimality and Forward Security](https://eprint.iacr.org/2016/062.pdf)
