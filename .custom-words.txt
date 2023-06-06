@@ -29,9 +29,11 @@ Dataflow
 Datalog
 Dialog's
 EDB
+ESVSSE
 EVAC
 Encryptions
 Equijoin
+Eurus
 FPP
 FQI
 Filecoin
