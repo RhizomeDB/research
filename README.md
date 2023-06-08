@@ -43,7 +43,7 @@ A debate that has raged for literal decades:
 
 ## CRDTs
 
-- [Keep Calm and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
+- [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 
 ## Data Structures
 
