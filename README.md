@@ -41,6 +41,10 @@ A debate that has raged for literal decades:
 
 - [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
 
+## CRDTs
+
+- [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
+
 ## Data Structures
 
 - [A Specialized B-tree for Concurrent Datalog Evaluation](https://souffle-lang.github.io/pdf/ppopp19.pdf)
