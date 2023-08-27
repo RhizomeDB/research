@@ -16,6 +16,7 @@ Computation](https://vldb.org/pvldb/vol12/p141-subotic.pdf)
 A debate that has raged for literal decades:
 
 - [Bottom-Up Beats Top-Down for Datalog](https://dl.acm.org/doi/pdf/10.1145/73721.73736)
+- [Precise Complexity Analysis for Efficient Datalog Queries](https://www3.cs.stonybrook.edu/~liu/papers/RuleQuery-PPDP10.pdf)
 
 ### Differential
 
